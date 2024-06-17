@@ -1,4 +1,4 @@
-# Car Sales Analysis Case Study
+# Car Sales Analysis 
 
 ## Overview
 
